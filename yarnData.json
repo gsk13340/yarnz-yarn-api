@@ -1,0 +1,598 @@
+{
+    "yarns": [
+        {
+            "brand": "Bernat",
+            "product": "Baby Blanket Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.96",
+                "Michaels": "$8.84",
+                "Hobby Lobby": "$13.15"
+            }
+        },
+        {
+            "brand": "Lion Brand",
+            "product": "24/7 Cotton Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.81",
+                "Michaels": "$14.92",
+                "Hobby Lobby": "$14.76"
+            }
+        },
+        {
+            "brand": "Malabrigo",
+            "product": "Rios Yarn",
+            "pricing": {
+                "Joann Fabrics": "$14.63",
+                "Michaels": "$10.05",
+                "Hobby Lobby": "$6.91"
+            }
+        },
+        {
+            "brand": "Paintbox Yarns",
+            "product": "Simply DK Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.69",
+                "Michaels": "$7.35",
+                "Hobby Lobby": "$10.96"
+            }
+        },
+        {
+            "brand": "Rowan Yarn",
+            "product": "Felted Tweed Yarn",
+            "pricing": {
+                "Joann Fabrics": "$14.6",
+                "Michaels": "$11.42",
+                "Hobby Lobby": "$8.89"
+            }
+        },
+        {
+            "brand": "Stylecraft",
+            "product": "Special DK",
+            "pricing": {
+                "Joann Fabrics": "$7.94",
+                "Michaels": "$13.51",
+                "Hobby Lobby": "$12.43"
+            }
+        },
+        {
+            "brand": "Scheepjes",
+            "product": "Colour Crafter",
+            "pricing": {
+                "Joann Fabrics": "$7.45",
+                "Michaels": "$8.63",
+                "Hobby Lobby": "$11.31"
+            }
+        },
+        {
+            "brand": "Plymouth Yarn",
+            "product": "Encore Worsted",
+            "pricing": {
+                "Joann Fabrics": "$6.71",
+                "Michaels": "$11.14",
+                "Hobby Lobby": "$12.83"
+            }
+        },
+        {
+            "brand": "Universal Yarn",
+            "product": "Major",
+            "pricing": {
+                "Joann Fabrics": "$8.17",
+                "Michaels": "$11.43",
+                "Hobby Lobby": "$6.86"
+            }
+        },
+        {
+            "brand": "Berroco",
+            "product": "Comfort DK",
+            "pricing": {
+                "Joann Fabrics": "$12.37",
+                "Michaels": "$8.85",
+                "Hobby Lobby": "$8.5"
+            }
+        },
+        {
+            "brand": "Debbie Bliss",
+            "product": "Cashmerino Aran",
+            "pricing": {
+                "Joann Fabrics": "$11.13",
+                "Michaels": "$9.54",
+                "Hobby Lobby": "$10.84"
+            }
+        },
+        {
+            "brand": "Lang Yarns",
+            "product": "Merino+",
+            "pricing": {
+                "Joann Fabrics": "$13.51",
+                "Michaels": "$14.31",
+                "Hobby Lobby": "$13.52"
+            }
+        },
+        {
+            "brand": "Cascade Yarns",
+            "product": "220 Superwash",
+            "pricing": {
+                "Joann Fabrics": "$7.77",
+                "Michaels": "$10.3",
+                "Hobby Lobby": "$9.96"
+            }
+        },
+        {
+            "brand": "Alize",
+            "product": "Burcum Batik",
+            "pricing": {
+                "Joann Fabrics": "$9.75",
+                "Michaels": "$11.66",
+                "Hobby Lobby": "$11.35"
+            }
+        },
+        {
+            "brand": "James C. Brett",
+            "product": "Marble Chunky",
+            "pricing": {
+                "Joann Fabrics": "$13.76",
+                "Michaels": "$11.55",
+                "Hobby Lobby": "$8.88"
+            }
+        },
+        {
+            "brand": "Noro",
+            "product": "Kureyon",
+            "pricing": {
+                "Joann Fabrics": "$12.35",
+                "Michaels": "$6.17",
+                "Hobby Lobby": "$10.97"
+            }
+        },
+        {
+            "brand": "Caron",
+            "product": "Simply Soft",
+            "pricing": {
+                "Joann Fabrics": "$12.29",
+                "Michaels": "$7.65",
+                "Hobby Lobby": "$12.45"
+            }
+        },
+        {
+            "brand": "King Cole",
+            "product": "Big Value DK",
+            "pricing": {
+                "Joann Fabrics": "$12.18",
+                "Michaels": "$14.43",
+                "Hobby Lobby": "$11.28"
+            }
+        },
+        {
+            "brand": "Red Heart",
+            "product": "Super Saver",
+            "pricing": {
+                "Joann Fabrics": "$8.26",
+                "Michaels": "$9.51",
+                "Hobby Lobby": "$11.67"
+            }
+        },
+        {
+            "brand": "Patons",
+            "product": "North America Kroy Socks",
+            "pricing": {
+                "Joann Fabrics": "$9.18",
+                "Michaels": "$12.9",
+                "Hobby Lobby": "$6.27"
+            }
+        },
+        {
+            "brand": "Madelinetosh",
+            "product": "Tosh Merino Light",
+            "pricing": {
+                "Joann Fabrics": "$6.4",
+                "Michaels": "$8.89",
+                "Hobby Lobby": "$6.42"
+            }
+        },
+        {
+            "brand": "Loops & Threads",
+            "product": "Impeccable",
+            "pricing": {
+                "Joann Fabrics": "$11.23",
+                "Michaels": "$6.6",
+                "Hobby Lobby": "$10.78"
+            }
+        },
+        {
+            "brand": "Koigu",
+            "product": "Painter's Palette Premium Merino (KPPPM)",
+            "pricing": {
+                "Joann Fabrics": "$13.89",
+                "Michaels": "$12.58",
+                "Hobby Lobby": "$14.8"
+            }
+        },
+        {
+            "brand": "Katia",
+            "product": "Air Lux",
+            "pricing": {
+                "Joann Fabrics": "$9.46",
+                "Michaels": "$6.77",
+                "Hobby Lobby": "$13.92"
+            }
+        },
+        {
+            "brand": "J\u00e4rbo Garn",
+            "product": "Raggi",
+            "pricing": {
+                "Joann Fabrics": "$9.89",
+                "Michaels": "$6.02",
+                "Hobby Lobby": "$11.49"
+            }
+        },
+        {
+            "brand": "Ice Yarns",
+            "product": "Magic Light",
+            "pricing": {
+                "Joann Fabrics": "$7.32",
+                "Michaels": "$14.25",
+                "Hobby Lobby": "$7.1"
+            }
+        },
+        {
+            "brand": "Hobbii",
+            "product": "Twister",
+            "pricing": {
+                "Joann Fabrics": "$8.21",
+                "Michaels": "$12.75",
+                "Hobby Lobby": "$8.79"
+            }
+        },
+        {
+            "brand": "Filcolana",
+            "product": "Arwetta",
+            "pricing": {
+                "Joann Fabrics": "$6.74",
+                "Michaels": "$9.75",
+                "Hobby Lobby": "$11.38"
+            }
+        },
+        {
+            "brand": "Ella Rae",
+            "product": "Cozy Soft",
+            "pricing": {
+                "Joann Fabrics": "$13.04",
+                "Michaels": "$8.34",
+                "Hobby Lobby": "$9.5"
+            }
+        },
+        {
+            "brand": "DROPS Design",
+            "product": "Sky",
+            "pricing": {
+                "Joann Fabrics": "$9.67",
+                "Michaels": "$6.78",
+                "Hobby Lobby": "$14.8"
+            }
+        },
+        {
+            "brand": "Bernat",
+            "product": "Velvet Yarn",
+            "pricing": {
+                "Joann Fabrics": "$13.89",
+                "Michaels": "$10.75",
+                "Hobby Lobby": "$7.62"
+            }
+        },
+        {
+            "brand": "Bernat",
+            "product": "Pop! Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.3",
+                "Michaels": "$10.92",
+                "Hobby Lobby": "$13.42"
+            }
+        },
+        {
+            "brand": "Bernat",
+            "product": "Softee Chunky Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.71",
+                "Michaels": "$11.23",
+                "Hobby Lobby": "$14.97"
+            }
+        },
+        {
+            "brand": "Bernat",
+            "product": "Maker Home Dec Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.29",
+                "Michaels": "$6.46",
+                "Hobby Lobby": "$11.65"
+            }
+        },
+        {
+            "brand": "Lion Brand",
+            "product": "Homespun Yarn",
+            "pricing": {
+                "Joann Fabrics": "$6.12",
+                "Michaels": "$7.6",
+                "Hobby Lobby": "$12.47"
+            }
+        },
+        {
+            "brand": "Lion Brand",
+            "product": "Vanna\u2019s Choice Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.29",
+                "Michaels": "$9.9",
+                "Hobby Lobby": "$8.21"
+            }
+        },
+        {
+            "brand": "Lion Brand",
+            "product": "Heartland Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.01",
+                "Michaels": "$9.42",
+                "Hobby Lobby": "$8.64"
+            }
+        },
+        {
+            "brand": "Lion Brand",
+            "product": "Scarfie Yarn",
+            "pricing": {
+                "Joann Fabrics": "$11.7",
+                "Michaels": "$11.44",
+                "Hobby Lobby": "$11.38"
+            }
+        },
+        {
+            "brand": "Cascade Yarns",
+            "product": "Heritage Yarn",
+            "pricing": {
+                "Joann Fabrics": "$7.08",
+                "Michaels": "$12.53",
+                "Hobby Lobby": "$12.21"
+            }
+        },
+        {
+            "brand": "Cascade Yarns",
+            "product": "Ultra Pima Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.92",
+                "Michaels": "$6.76",
+                "Hobby Lobby": "$12.1"
+            }
+        },
+        {
+            "brand": "Cascade Yarns",
+            "product": "Eco Wool Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.27",
+                "Michaels": "$13.48",
+                "Hobby Lobby": "$10.35"
+            }
+        },
+        {
+            "brand": "Cascade Yarns",
+            "product": "Cherub DK Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.58",
+                "Michaels": "$6.79",
+                "Hobby Lobby": "$12.75"
+            }
+        },
+        {
+            "brand": "Malabrigo",
+            "product": "Worsted Yarn",
+            "pricing": {
+                "Joann Fabrics": "$13.72",
+                "Michaels": "$11.56",
+                "Hobby Lobby": "$14.78"
+            }
+        },
+        {
+            "brand": "Malabrigo",
+            "product": "Sock Yarn",
+            "pricing": {
+                "Joann Fabrics": "$11.88",
+                "Michaels": "$8.29",
+                "Hobby Lobby": "$6.76"
+            }
+        },
+        {
+            "brand": "Malabrigo",
+            "product": "Mecha Yarn",
+            "pricing": {
+                "Joann Fabrics": "$14.4",
+                "Michaels": "$13.58",
+                "Hobby Lobby": "$13.66"
+            }
+        },
+        {
+            "brand": "Malabrigo",
+            "product": "Caracol Yarn",
+            "pricing": {
+                "Joann Fabrics": "$7.21",
+                "Michaels": "$12.22",
+                "Hobby Lobby": "$9.3"
+            }
+        },
+        {
+            "brand": "Paintbox Yarns",
+            "product": "Cotton Aran Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.5",
+                "Michaels": "$13.31",
+                "Hobby Lobby": "$10.59"
+            }
+        },
+        {
+            "brand": "Paintbox Yarns",
+            "product": "Wool Mix Aran Yarn",
+            "pricing": {
+                "Joann Fabrics": "$11.12",
+                "Michaels": "$9.26",
+                "Hobby Lobby": "$11.55"
+            }
+        },
+        {
+            "brand": "Paintbox Yarns",
+            "product": "Chunky Pots Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.96",
+                "Michaels": "$9.72",
+                "Hobby Lobby": "$13.18"
+            }
+        },
+        {
+            "brand": "Paintbox Yarns",
+            "product": "Metallic DK Yarn",
+            "pricing": {
+                "Joann Fabrics": "$9.94",
+                "Michaels": "$11.65",
+                "Hobby Lobby": "$10.76"
+            }
+        },
+        {
+            "brand": "Scheepjes",
+            "product": "Whirl Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.27",
+                "Michaels": "$12.17",
+                "Hobby Lobby": "$11.68"
+            }
+        },
+        {
+            "brand": "Scheepjes",
+            "product": "Stone Washed Yarn",
+            "pricing": {
+                "Joann Fabrics": "$11.27",
+                "Michaels": "$11.65",
+                "Hobby Lobby": "$10.58"
+            }
+        },
+        {
+            "brand": "Scheepjes",
+            "product": "Catona Yarn",
+            "pricing": {
+                "Joann Fabrics": "$12.75",
+                "Michaels": "$13.23",
+                "Hobby Lobby": "$10.78"
+            }
+        },
+        {
+            "brand": "Scheepjes",
+            "product": "Our Tribe Yarn",
+            "pricing": {
+                "Joann Fabrics": "$14.3",
+                "Michaels": "$14.46",
+                "Hobby Lobby": "$12.63"
+            }
+        },
+        {
+            "brand": "Rowan Yarn",
+            "product": "Kidsilk Haze Yarn",
+            "pricing": {
+                "Joann Fabrics": "$11.6",
+                "Michaels": "$7.02",
+                "Hobby Lobby": "$12.05"
+            }
+        },
+        {
+            "brand": "Rowan Yarn",
+            "product": "Big Wool Yarn",
+            "pricing": {
+                "Joann Fabrics": "$6.03",
+                "Michaels": "$8.03",
+                "Hobby Lobby": "$9.23"
+            }
+        },
+        {
+            "brand": "Rowan Yarn",
+            "product": "Cocoon Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.87",
+                "Michaels": "$9.99",
+                "Hobby Lobby": "$10.36"
+            }
+        },
+        {
+            "brand": "Rowan Yarn",
+            "product": "Alpaca Classic Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.28",
+                "Michaels": "$12.87",
+                "Hobby Lobby": "$10.99"
+            }
+        },
+        {
+            "brand": "Debbie Bliss",
+            "product": "Rialto DK Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.07",
+                "Michaels": "$8.86",
+                "Hobby Lobby": "$13.98"
+            }
+        },
+        {
+            "brand": "Debbie Bliss",
+            "product": "Cashmerino Aran Yarn",
+            "pricing": {
+                "Joann Fabrics": "$7.29",
+                "Michaels": "$7.02",
+                "Hobby Lobby": "$12.51"
+            }
+        },
+        {
+            "brand": "Debbie Bliss",
+            "product": "Angel Yarn",
+            "pricing": {
+                "Joann Fabrics": "$6.76",
+                "Michaels": "$14.72",
+                "Hobby Lobby": "$9.06"
+            }
+        },
+        {
+            "brand": "Debbie Bliss",
+            "product": "Lola Yarn",
+            "pricing": {
+                "Joann Fabrics": "$7.61",
+                "Michaels": "$13.66",
+                "Hobby Lobby": "$13.12"
+            }
+        },
+        {
+            "brand": "Noro",
+            "product": "Silk Garden Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.4",
+                "Michaels": "$9.11",
+                "Hobby Lobby": "$11.16"
+            }
+        },
+        {
+            "brand": "Noro",
+            "product": "Ito Yarn",
+            "pricing": {
+                "Joann Fabrics": "$10.67",
+                "Michaels": "$11.42",
+                "Hobby Lobby": "$10.92"
+            }
+        },
+        {
+            "brand": "Noro",
+            "product": "Taiyo Yarn",
+            "pricing": {
+                "Joann Fabrics": "$13.03",
+                "Michaels": "$11.58",
+                "Hobby Lobby": "$10.23"
+            }
+        },
+        {
+            "brand": "Noro",
+            "product": "Kiri Yarn",
+            "pricing": {
+                "Joann Fabrics": "$8.58",
+                "Michaels": "$8.41",
+                "Hobby Lobby": "$7.99"
+            }
+        }
+    ]
+}
