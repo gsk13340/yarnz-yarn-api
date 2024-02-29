@@ -64,3 +64,6 @@ Example URL: http://localhost:4000/yarns/bernat
 Endpoint: /yarns/:brand
 
 Method: GET
+
+![Screenshot (31)](https://github.com/gsk13340/yarnz-yarn-api/assets/42681947/944c5c58-56a0-4537-84db-620edca4c8d0)
+
